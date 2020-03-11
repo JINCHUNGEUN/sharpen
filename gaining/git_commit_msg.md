@@ -14,6 +14,8 @@
 2. remove obsolete old code
 3. remove useless huge files
 
+## 20200310
+1. Get a value error if you pass a string representation of a float into int, or a string representation of anything but an interger(including empty string). if you do want to pass a string representation of a float into an int,as someone points out above,convert to a float first , then to an integer
 
 
 **from**
