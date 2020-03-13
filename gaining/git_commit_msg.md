@@ -17,6 +17,12 @@
 ## 20200310
 1. Get a value error if you pass a string representation of a float into int, or a string representation of anything but an interger(including empty string). if you do want to pass a string representation of a float into an int,as someone points out above,convert to a float first , then to an integer
 
+## 20200312
+1. Notarized macOS builds
+
+## 20200313
+1. install's `--keep-outdated` does not seem to be respected
+
 
 **from**
 
